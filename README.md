@@ -8,7 +8,7 @@ If you see any errors or any room for improvement, please don't hesitate to rais
 
 # Picks
 
-I have collated the Rationally Speaking 'Picks' (recommendations) and they can be viewed interactively using [GitHub's "Flat Viewer"](https://flatgithub.com/rasoolsomji/rationally-speaking-podcast).
+I have collated the Rationally Speaking 'Picks' (recommendations) and they can be [viewed interactively](https://flatgithub.com/rasoolsomji/rationally-speaking-podcast) using [GitHub's "Flat Viewer"](https://github.com/githubocto/flat-viewer).
 
 I have added tags for ease of filtering.
 

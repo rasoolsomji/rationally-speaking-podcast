@@ -6,6 +6,8 @@ These episodes have been run through an [automated speech-to-text program](https
 
 If you see any errors or any room for improvement, please don't hesitate to raise an issue or submit a pull request!
 
+Transcripts are also available [here](https://www.happyscribe.com/public/rationally-speaking-podcast)
+
 # Picks
 
 I have collated the Rationally Speaking 'Picks' (recommendations) and they can be [viewed interactively](https://flatgithub.com/rasoolsomji/rationally-speaking-podcast) using [GitHub's "Flat Viewer"](https://github.com/githubocto/flat-viewer).
